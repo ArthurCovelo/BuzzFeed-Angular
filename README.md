@@ -10,10 +10,10 @@ Este projeto foi desenvolvido como parte do Curso de Formação Angular na Dio (
 
 ### 🖥️ Tecnologias Utilizadas
 
-- ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) Angular 17.1.1
-- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML
-- ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23778BFF.svg?style=for-the-badge&logo=typescript&logoColor=white) TypeScript
+- ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23778BFF.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ### 📚 Sobre o BuzzQuizz
 
@@ -21,7 +21,13 @@ O **BuzzQuizz** é uma aplicação de questionários interativos, oferecendo aos
 
 ### 📧 Contato
 
-- 📧 E-mail: [arthurcovelo@gmail.com](mailto:arthurcovelo@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/arthurcovelo](https://www.linkedin.com/in/arthurcovelo/)
-
+<div align=center>
+  <a href="mailto:arthurcovelo@gmail.com" >
+    <img src="https://img.shields.io/badge/arthurcovelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+  </a>
+  
+   <a href="https://www.linkedin.com/in/arthurcovelo/">
+    <img src="https://img.shields.io/badge/linkedin.com/in/arthurcovelo/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>    
+</div>
 Esperamos que aproveite o BuzzQuizz e tenha uma experiência incrível! 🚀
