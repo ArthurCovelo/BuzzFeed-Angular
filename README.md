@@ -2,26 +2,26 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
-## Development server
+<img src="./src/assets/CapturaBuzzQuizz.png" alt="pagina em execução">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Sobre o Projeto "BuzzQuizz"
 
-## Code scaffolding
+Este projeto foi desenvolvido como parte do Curso de Formação Angular na Dio (Digital Innovation One), com o propósito de aplicar os conhecimentos adquiridos no framework Angular.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 🖥️ Tecnologias Utilizadas
 
-## Build
+- ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) Angular 17.1.1
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML
+- ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23778BFF.svg?style=for-the-badge&logo=typescript&logoColor=white) TypeScript
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### 📚 Sobre o BuzzQuizz
 
-## Running unit tests
+O **BuzzQuizz** é uma aplicação de questionários interativos, oferecendo aos usuários a oportunidade de responder a perguntas sobre diversos temas. O projeto visa proporcionar uma experiência prática com o Angular, além de criar uma aplicação educativa e envolvente.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 📧 Contato
 
-## Running end-to-end tests
+- 📧 E-mail: [arthurcovelo@gmail.com](mailto:arthurcovelo@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/arthurcovelo](https://www.linkedin.com/in/arthurcovelo/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Esperamos que aproveite o BuzzQuizz e tenha uma experiência incrível! 🚀
