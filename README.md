@@ -18,9 +18,9 @@ Este projeto foi desenvolvido como parte do Curso de Formação Angular na Dio (
 ### 📚 Sobre o BuzzQuizz
 
 O **BuzzQuizz** é uma aplicação de questionários interativos, oferecendo aos usuários a oportunidade de responder a perguntas sobre diversos temas. O projeto visa proporcionar uma experiência prática com o Angular, além de criar uma aplicação educativa e envolvente.
-<div align=center>
+
 ### 📧 Contato
-</div>
+
 <div align=center>
   <a href="mailto:arthurcovelo@gmail.com" >
     <img src="https://img.shields.io/badge/arthurcovelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
