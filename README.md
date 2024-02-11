@@ -25,9 +25,13 @@ O **BuzzQuizz** é uma aplicação de questionários interativos, oferecendo aos
   <a href="mailto:arthurcovelo@gmail.com" >
     <img src="https://img.shields.io/badge/arthurcovelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
+
+  <br>
   
    <a href="https://www.linkedin.com/in/arthurcovelo/">
     <img src="https://img.shields.io/badge/linkedin.com/in/arthurcovelo/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>    
 </div>
+
+<br>
 Esperamos que aproveite o BuzzQuizz e tenha uma experiência incrível! 🚀
