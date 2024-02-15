@@ -32,6 +32,3 @@ O **BuzzQuizz** é uma aplicação de questionários interativos, oferecendo aos
     <img src="https://img.shields.io/badge/linkedin.com/in/arthurcovelo/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>    
 </div>
-
-<br>
-Esperamos que aproveite o BuzzQuizz e tenha uma experiência incrível! 🚀
